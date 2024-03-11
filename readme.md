@@ -40,10 +40,10 @@ The [Premium version of our plugin "Search and Replace"](https://www.cminds.com/
 
 <details><summary> <b>Expand</b> </summary>
   
-* Unlimited Rule Generation: Establish as many guidelines as you wish for altering standard text and HTML.
-* Consistency Rules: Utilize rules that aid in the uniformity of WordPress posts and pages.
-* Local Operation: Execute text and HTML changes on a local level without database persistence.
-* Sensitive Search: Facilitate the examination of content for words with case sensitivity.
+* **Unlimited Rule Generation**: Establish as many guidelines as you wish for altering standard text and HTML.
+* **Consistency Rules**: Utilize rules that aid in the uniformity of WordPress posts and pages.
+* **Local Operation**: Execute text and HTML changes on a local level without database persistence.
+* **Sensitive Search**: Facilitate the examination of content for words with case sensitivity.
 
 </details>
 
@@ -53,15 +53,15 @@ The [Premium version of our plugin "Search and Replace"](https://www.cminds.com/
 
 > [Pro Version Detailed Features List](https://www.cminds.com/wordpress-plugins-library/search-and-replace-plugin-for-wordpress/#features)
 
-* Rule Configuration: Set up rules for modifying comments, titles of sites and pages, as well as the main content and summaries.
-* Custom Post Compatibility: Offer support for user-defined post types.
-* Regex Compatibility: Provide support for regular expression-based rules.
-* Time-Sensitive Replacements: Enable replacements to be scheduled over specific time periods.
-* Targeted Post Replacements: Allow replacements to be applied to chosen posts exclusively.
-* Rule Administration: Manage rules with options to pause, modify, remove, or reorder them with ease.
-* Rule Portability: Facilitate the import and export of rule sets.
-* Rule Search Functionality: Include a search feature to find specific rules.
-* Interactive Frontend Control: Integrate a widget on the frontend for toggling rules on or off.
+* **Rule Configuration**: Set up rules for modifying comments, titles of sites and pages, as well as the main content and summaries.
+* **Custom Post Compatibility**: Offer support for user-defined post types.
+* **Regex Compatibility**: Provide support for regular expression-based rules.
+* **Time-Sensitive Replacements**: Enable replacements to be scheduled over specific time periods.
+* **Targeted Post Replacements**: Allow replacements to be applied to chosen posts exclusively.
+* **Rule Administration**: Manage rules with options to pause, modify, remove, or reorder them with ease.
+* **Rule Portability**: Facilitate the import and export of rule sets.
+* **Rule Search Functionality**: Include a search feature to find specific rules.
+* **Interactive Frontend Control**: Integrate a widget on the frontend for toggling rules on or off.
 * Extended Plugin Support: Guarantee compatibility with additional content from plugins such as Yoast, BBPress, WooCommerce, ACF, and CM Tooltip Glossary.
 * Database Commit Option: Provide an option to save rules to the database for permanence.
 * Change Logging: Maintain a log file to document all changes executed.
