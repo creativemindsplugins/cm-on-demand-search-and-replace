@@ -62,8 +62,8 @@ The [Premium version of our plugin "Search and Replace"](https://www.cminds.com/
 * **Rule Portability**: Facilitate the import and export of rule sets.
 * **Rule Search Functionality**: Include a search feature to find specific rules.
 * **Interactive Frontend Control**: Integrate a widget on the frontend for toggling rules on or off.
-* Extended Plugin Support: Guarantee compatibility with additional content from plugins such as Yoast, BBPress, WooCommerce, ACF, and CM Tooltip Glossary.
-* Database Commit Option: Provide an option to save rules to the database for permanence.
-* Change Logging: Maintain a log file to document all changes executed.
+* **Extended Plugin Support**: Guarantee compatibility with additional content from plugins such as Yoast, BBPress, WooCommerce, ACF, and CM Tooltip Glossary.
+* **Database Commit Option**: Provide an option to save rules to the database for permanence.
+* **Change Logging**: Maintain a log file to document all changes executed.
 
 </details>
