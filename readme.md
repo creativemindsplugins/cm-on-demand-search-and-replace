@@ -3,11 +3,13 @@
 * Name: CM WordPress Search And Replace Plugin
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Introduction
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/purchase-cm-on-demand-search-and-replace-plugin-for-wordpress/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/search-replace-wordpress-plugin/)  | [User Guide](https://creativeminds.helpscoutdocs.com/category/282-search-and-replace-cmsr) 
+
+⭐ Meet the updated CM Search and Replace! With a fresh, intuitive design, managing your search and replace rules is now easier and more precise than ever.
 
 **Utilize our plugin "Search and Replace" to execute on-the-fly modifications of text, expressions, and HTML content on your site, all while preserving the integrity of the original database.**
 
